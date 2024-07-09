@@ -1,6 +1,3 @@
-# pandas-challenge
-Module_4_Challenge_Pandas
-
 For this challenge I sorted and analyzed the data provided in the 'schools complete' and 'students complete' csv files.
 
 The basis of this challenge was to break down this raw data to show:
